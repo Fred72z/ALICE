@@ -1,4 +1,7 @@
-#CARTOUCHE ALICE
+# CARTOUCHE ALICE #
+
+
+![Cartouche Alice](./Cartouche.jpg?raw=true "Optional Title")
 
 Chaque cartouche contient une mémoire EPROM de 64Ko.
 
@@ -12,16 +15,27 @@ Liste des programmes disponibles:
 
 # Alice 4K #
 FlagonBird
+
 LostWorld
+
 Pacman
 
 # Alice 32/90 #
 Al Berthe
+
 Chenille
+
 Crocky
+
 Dessine moi
+
 Fringale
+
 Galaxion
+
 Kangourou
+
 Pillage cosmique
+
 Tank
+
