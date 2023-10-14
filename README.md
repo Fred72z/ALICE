@@ -21,7 +21,7 @@ Ce projet a été réalisé conjointement avec 6502man pour la partie software.
  Ils occupent les adresses $BF30 (48944) pour le joystick droit et $BF34 (48948) pour le joystick gauche.
  
  RAM
- La RAM de 16Ko occupe les adresses [$4000-8FFF]. Elle peut être désactivée par un micro interrupteur accessible à l'arriére du boîtier. Une version modifiée du programme du PLD permet d'étendre cette RAM à 24K [$4000-9FFF] permettant de transformer un ALICE 32 en ALICE 90. Toutefois cette modification rend l'extension incompatible avec le 4K.
+ La RAM de 16Ko occupe les adresses [$5000-8FFF]. Elle peut être désactivée par un micro interrupteur accessible à l'arriére du boîtier. Une version modifiée du programme du PLD permet d'étendre cette RAM à 24K [$5000-AFFF] permettant de transformer un ALICE 32 en ALICE 90. Toutefois cette modification rend l'extension incompatible avec le 4K.
  
  Ports d'extension
  Le boîtier dispose de 2 ports d'extension à l'arrière permettant de régler le gros problème de l'ALICE qui ne permet de connecteur qu'une seule extension à la fois.
