@@ -1,4 +1,4 @@
-#EXTENSION MULTIPORTS ALICE
+#EXTENSION MULTIPORTS ALICE#
 
 Cette extension permet d'étendre les possibilités des ordinateurs MATRA ALICE (4K, 32 et 90).
 Elle ajoute :
@@ -9,11 +9,11 @@ Elle ajoute :
 
 Elle est aussi compatible avec le MATRA MC10 (identique à l'ALICE 4K).
 
-
-photo du proto
-
+![Extension multiports](./Extension.jpg?raw=true "Optional Title")
 
 Ce projet a été réalisé conjointement avec 6502man pour la partie software.
+
+![Platine principale](./EXP_Alice.jpg?raw=true "Optional Title")
  
  
  Ports joystick 
