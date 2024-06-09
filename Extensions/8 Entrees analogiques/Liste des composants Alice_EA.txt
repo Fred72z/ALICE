@@ -1,0 +1,19 @@
+C1 : 1 x 47µF/16V Radial pas 2.54mm
+C2 C3 : 2x 100nF pas 5mm
+C4 : 1x 47pF  pas 5mm
+C5 : 1x 47nF  pas 5mm 
+C6 à C13 : 8x 1nF CMS 0805
+C13 : 1x47pF
+D1 : 1x BAT85
+J1 : 1x Connecteur bord de carte 2x18 broches pas 2.54mm pour PCB ou barette double rangée 2x18 broches pas 2.54mm 90°
+J2 : 1x Connecteur IDC 2x10 broches pas 2.54mm Horizontal
+R1 : 5.6kohms 1/4W
+R2 : 10 ohms 1/4W
+R3 à R10 : 8x 1kohms 1/4W
+U1 : 1x 74LS30
+U2 : 1x GAL16V8B
+U3 : 1x ADC0808 ou ADC0809 (le ADC0808 est un peu plus précis que le ADC0809)
+1x Support CI 14 broches
+1x Support CI 20 broches
+1x Support CI 28 broches
+4 vis agglo 3x20mm

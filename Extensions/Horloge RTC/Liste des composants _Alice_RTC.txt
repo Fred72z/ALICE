@@ -1,0 +1,11 @@
+C1 : 1 x 47µF/16V Radial pas 2.54mm
+C2 C3 : 2x 100nF pas 5mm
+D1 : 1x BAT85
+J1 : 1x Connecteur bord de carte 2x18 broches pas 2.54mm pour PCB ou barette double rangée 2x18 broches pas 2.54mm 90°
+U1 : 1x 74LS30
+U2 : 1x GAL16V8B
+U3 : 1x DS12C887(+)
+1x Support CI 14 broches
+1x Support CI 20 broches
+1x Support CI 24 broches
+4 vis agglo 3x19mm

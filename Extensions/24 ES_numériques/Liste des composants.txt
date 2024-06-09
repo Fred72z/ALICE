@@ -1,0 +1,13 @@
+Liste des composants Carte E/S pour Alice
+
+U1 : 74LS30
+U2 : GAL 16V8
+U3 : 82C55 ou 8255
+C1 : 47µF /16V radial
+C2,C3 : 100nF pas 5mm
+J1 : Connecteur bord de carte 2x18 broches pas 2.54mm
+J2 : Connecteur IDC mâle 30 broches 90°
+
+1x Support CI 40 broches/15.24mm
+1x Support CI 20 broches/7.62mm
+1x Support CI 14 broches/7.62mm
