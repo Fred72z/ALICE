@@ -1,0 +1,5 @@
+J1 : 1x Bornier 2 broches pas 5mm
+J2 : 1x Bornier 8 broches (ou 4x2 broches) pas 5mm
+J3 : 1x Connecteur IDC 2x10 broches pcb à 90°
+R1 : 47 ohms 1/2W
+4 vis tôle 2.9x6.5mm
