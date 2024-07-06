@@ -1,0 +1,28 @@
+Reference, Quantity, Value, Footprint, Datasheet
+C1 : 1x 10nF pas 5mm
+C2 : 1x 47pF, pas 5mm
+C3,C9 : 2x 22nF pas 5mm
+C4,C7 : 2x 47µF/16V radial
+C5,C6,C8 : 3x 100nF pas 5mm
+D1 : 1x BAT85
+
+J1 : 1x connecteur bord de carte 2x18 broches pas 2.54mm ou barette 2x18 broches mâle 90° pcb
+J2 : 1x Connecteur jack 3.5mm PJ-307
+Q1 : 1x P2N2907 (TO92)
+R1 : 1x 1 Mohms 1/4W
+R2 : 1x 22 kohms
+R3,R6 : 2x 470 ohms
+R4 : 1x 1.5 kohms
+R5 : 1x 47 ohms
+R7,R8 : 2x 10 kohms
+U1 : 1x 74LS30
+U2 : 1x,GAL16V8
+U3 : 1x,MEA8000
+Y1 : 1x Quartz 4MHz
+
+1x Support CI 14 boches
+1x Support CI 20 boches
+1x Support CI 24 boches large
+
+1x Boîtier 3D
+4x vis tôle 2.9x6.5mm
