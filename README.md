@@ -1,3 +1,8 @@
+# IMPRIMANTE POUR ALICE #
+
+Ajout d'une petite imprimante thermique pour ALICE/MC10
+[Mini imprimante](./Printer)
+
 # EXTENSION MULTIPORTS ALICE #
 
 Cette extension permet d'étendre les possibilités des ordinateurs MATRA ALICE (4K, 32 et 90).
