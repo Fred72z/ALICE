@@ -12,14 +12,20 @@ Une liaison directe Alice-Imprimante n'est pas possible et la conversion est ass
 
 ![l'arduino en place](./imp_pcb.jpg)
 
-<u>BOM</u>
+**MATERIEL**
 
--1 arduino nano
--1 MAX232
--4 condensateurs 1µF
--1 condensateur 220µF/16V
--1 connecteur jack 5.5mm
--1 prise DIN mâle 4 broches
--1 connecteur JST XH2.5 5 broches
--1 connecteur JST XH2.5 4 broches (optionnel)
--30cm de câble 3 ou 4 conducteurs
+- 1 arduino nano
+- 1 MAX232
+- 4 condensateurs 1µF
+- 1 condensateur 220µF/16V
+- 1 connecteur jack 5.5mm
+- 1 prise DIN mâle 4 broches
+- 1 connecteur JST XH2.5 5 broches
+- 1 connecteur JST XH2.5 4 broches (optionnel)
+- 30cm de câble 3 ou 4 conducteurs
+- 3 vis tôle 2.9x6.5mm
+- 4 vis à bois (agglo) 3x20mm
+
+**Réalisation du câble**
+
+... à venir
