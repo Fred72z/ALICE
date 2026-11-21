@@ -28,4 +28,5 @@ Une liaison directe Alice-Imprimante n'est pas possible et la conversion est ass
 
 **Réalisation du câble**
 
-... à venir
+![câblage de la DIN](./cablage_DIN.jpg)
+
